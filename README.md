@@ -34,7 +34,8 @@ Not sure if your terminal supports 24 bit colorschemes? Check out this list: [Tr
 
 Terminal ASCII Setup
 --------------------
-If you don't have a 24 bit terminal or you don't have Version 8 of Vim, you're still in luck! Use the appropriate terminal theme located in this branch. Then add this to your vimrc:
+If you don't have a 24 bit terminal or you don't have Vim8, you're still in luck! I have provided the iTerm theme and the Xresources. If you're not using a terminal based on the themes I have provided, I recommed you visit the Sidonia terminal theme located @ [terminal.sexy for Sidonia](https://terminal.sexy/#MzlC5O36MzlCzEM5Jqam2Ptgoq_BmWa4LDE55O36XGVzzEM5Jqam2Ptgoq_BmWa4LzQ85O36). From there, you can export the theme to Chrome Secure Shell, Gnome Terminal, Guake, Konsole, and MinTTY to name a few.
+
 ```VimL
 colorscheme sidonia
 ```
