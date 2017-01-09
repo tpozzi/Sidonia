@@ -65,7 +65,7 @@ highlight! Underlined               guifg=#9966B8  guibg=NONE     gui=NONE      
 highlight! SpecialComment           guifg=#5c6573  guibg=NONE     gui=reverse   ctermfg=8    ctermbg=NONE cterm=reverse
 highlight! Todo                     guifg=#D8FD60  guibg=NONE     gui=reverse   ctermfg=3    ctermbg=NONE cterm=reverse
 highlight! Search                   guifg=#26A6A6  guibg=NONE     gui=reverse   ctermfg=2    ctermbg=NONE cterm=reverse
-highlight! Error                    guifg=#CC4339  guibg=NONE     gui=reverse   ctermfg=2    ctermbg=NONE cterm=reverse
+highlight! Error                    guifg=#CC4339  guibg=NONE     gui=reverse   ctermfg=1    ctermbg=NONE cterm=reverse
 highlight! DiffAdd                  guifg=#e4edfa  guibg=NONE     gui=reverse   ctermfg=15   ctermbg=NONE cterm=reverse
 highlight! DiffChange               guifg=#9966B8  guibg=NONE     gui=reverse   ctermfg=5    ctermbg=NONE cterm=reverse
 highlight! SpellBad                 guifg=#CC4339  guibg=NONE     gui=undercurl ctermfg=2    ctermbg=NONE cterm=undercurl
