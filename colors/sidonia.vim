@@ -68,7 +68,7 @@ highlight! Search                   guifg=#26A6A6  guibg=NONE     gui=reverse   
 highlight! Error                    guifg=#CC4339  guibg=NONE     gui=reverse   ctermfg=1    ctermbg=NONE cterm=reverse
 highlight! DiffAdd                  guifg=#e4edfa  guibg=NONE     gui=reverse   ctermfg=15   ctermbg=NONE cterm=reverse
 highlight! DiffChange               guifg=#9966B8  guibg=NONE     gui=reverse   ctermfg=5    ctermbg=NONE cterm=reverse
-highlight! SpellBad                 guifg=#CC4339  guibg=NONE     gui=undercurl ctermfg=2    ctermbg=NONE cterm=undercurl
+highlight! SpellBad                 guifg=#CC4339  guibg=NONE     gui=undercurl ctermfg=1    ctermbg=NONE cterm=undercurl
 highlight! SpellLocal               guifg=#9966B8  guibg=NONE     gui=undercurl ctermfg=8    ctermbg=NONE cterm=undercurl
 highlight! SpellCap                 guifg=#D8FD60  guibg=NONE     gui=undercurl ctermfg=3    ctermbg=NONE cterm=undercurl
 
