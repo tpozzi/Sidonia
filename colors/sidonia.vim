@@ -15,20 +15,44 @@
 
 
 "================================================================================
-" COLOR PALETTE:
+" ANSCII PALETTE:
 "================================================================================
+"! special
+"*.foreground:   #e4edfa
+"*.background:   #333942
+"*.cursorColor:  #e4edfa
 
-" NAME        HEX-DEX
-"-------      -------
-" NAGATE      #333942
-" TSUMUGI     #5c6573
-" BENISUZUME  #CC4339
-" KANATA      #26A6A6
-" NODOKA      #D8FD60
-" KOBAYASHI   #2c3139
-" HIROKI      #a2afc1
-" LALA        #e4edfa
+"! black
+"*.color0:       #333942
+"*.color8:       #4a5260
 
+"! red
+"*.color1:       #cc4339
+"*.color9:       #cc4339
+"
+"! green
+"*.color2:       #26a6a6
+"*.color10:      #26a6a6
+
+"! yellow
+"*.color3:       #d8fb60
+"*.color11:      #d8fb60
+
+"! blue
+"*.color4:       #a2afc1
+"*.color12:      #a2afc1
+
+"! magenta
+"*.color5:       #9966b8
+"*.color13:      #9966b8
+
+"! cyan
+"*.color6:       #2c3139
+"*.color14:      #2f343c
+
+"! white
+"*.color7:       #e4edfa
+"*.color15:      #e4edfa
 
 set background=dark
 
@@ -50,7 +74,7 @@ highlight! Normal                   guifg=#e4edfa  guibg=#333942  gui=NONE      
 highlight! TabLineSel               guifg=#333942  guibg=#a2afc1  gui=NONE      ctermfg=0    ctermbg=4    cterm=NONE
 highlight! PmenuSel                 guifg=#a2afc1  guibg=NONE     gui=reverse   ctermfg=4    ctermbg=NONE cterm=reverse
 highlight! StatusLine               guifg=#e4edfa  guibg=#2c3139  gui=NONE      ctermfg=15   ctermbg=6    cterm=NONE
-highlight! CursorLineNr             guifg=#e4edfa  guibg=#2c3139  gui=NONE      ctermfg=15   ctermbg=14   cterm=NONE
+highlight! CursorLineNr             guifg=#e4edfa  guibg=#2c3139  gui=NONE      ctermfg=15   ctermbg=6   cterm=NONE
 highlight! MatchParen               guifg=#e4edfa  guibg=#CC4339  gui=NONE      ctermfg=15   ctermbg=2    cterm=NONE
 highlight! PmenuSbar                guifg=#2c3139  guibg=#2c3139  gui=NONE      ctermfg=6    ctermbg=6    cterm=NONE
 highlight! String                   guifg=#26A6A6  guibg=NONE     gui=NONE      ctermfg=2    ctermbg=NONE cterm=NONE
