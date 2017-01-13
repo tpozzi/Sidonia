@@ -23,25 +23,19 @@ There are a few ways to install sidonia. The first option is by using your favor
 ###### Download Option
 Download the .zip and copy `sidonia.vim` to `~/.vim/colors` (on Windows `<your-vim-dir>\vimfiles\colors`). Or for global accessibility, `/usr/share/vim/vimfiles/colors`.
 
-24 Bit Terminal Setup
+24 Bit Color Setup ( Recommended )
 ---------------------
-If you have Version 8 of Vim and you have a terminal that supports 24 bit colors, add this to your vimrc:
+If you have a GUI Vim or a 24-bit terminal with Vim 8, add this to your vimrc:
 ```VimL
 set termguicolors
 colorscheme sidonia
 ```
 Not sure if your terminal supports 24 bit colorschemes? Check out this list: [Truecolor Supported Terminals ](https://gist.github.com/XVilka/8346728)
 
-Terminal ASCII Setup
+ASCII Setup
 --------------------
-If you don't have a 24 bit terminal or you don't have Vim8, you're still in luck! I have provided the iTerm theme and the Xresources. If you're not using a terminal based on the themes I have provided, I recommed you visit the Sidonia terminal theme located @ [terminal.sexy for Sidonia](https://terminal.sexy/#MzlC5O36MzlCzEM5Jqam2Ptgoq_BmWa4LDE55O36XGVzzEM5Jqam2Ptgoq_BmWa4LzQ85O36). From there, you can export the theme to Chrome Secure Shell, Gnome Terminal, Guake, Konsole, and MinTTY to name a few.
+If you don't have Vim8 you can still get sidonia to run in full color IF you use the attached sidonia terminal theme. Essentially, if termguicolors are not detected within the .vimrc, vim will target the sidonia xterm color palette instead (colors# 0 - 15 ). One draw back to using the "ASCII" method is that if the sidonia colors are updated, you will need to also make sure to update your terminal with the new colors. 
 
-```VimL
-colorscheme sidonia
-```
-
-GUI VIM Setup
--------------
 ```VimL
 colorscheme sidonia
 ```
