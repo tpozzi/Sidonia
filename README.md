@@ -5,7 +5,7 @@ Sidonia
 
 ![Screenshot](https://cloud.githubusercontent.com/assets/11221489/21748307/92f35fbc-d536-11e6-95a6-7416c31046df.png)
 
-:bulb: Have you ever been visually assaulted or "triggered" by a colorscheme? :rage1: If so, welcome to your safe space! :godmode: In the spirit of minimalism and other great low color syntax colorschemes, Sidonia attempts to help create a simple yet effective color balance without any visual interference.
+:bulb: Have you ever been visually assaulted or "triggered" by a colorscheme? :trollface: If so, welcome to your new safe space! In the spirit of minimalism and other great low color syntax colorschemes, Sidonia attempts to help create a simple yet effective color balance without any visual interference.
 
 
 :rocket: Setup 
