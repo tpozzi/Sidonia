@@ -7,23 +7,7 @@ colorscheme sidonia
 ```
 ![Screenshot](https://cloud.githubusercontent.com/assets/11221489/21748307/92f35fbc-d536-11e6-95a6-7416c31046df.png)
 
-
-There are a few ways to install sidonia. The first option is by using your favorite vim package manager and the second is by manual download.
-
-:open_file_folder: Package Manager Option
------------------------------------------
-
-| Manager          |                 |                                                                            |
-|------------------|-----------------|----------------------------------------------------------------------------|
-| Vundle           | add to .vimrc:  | `Plugin 'alessandroyorba/sidonia'`                                         |
-| NeoBundle        | add to .vimrc:  | `NeoBundle 'alessandroyorba/sidonia'`                                      |
-| VimPlug          | add to .vimrc:  | `Plug 'alessandroyorba/sidonia'`                                           |
-| Pathogen         | from terminal:  | `cd ~/.vim/bundle && \ git clone git://github.com/alessandroyorba/sidonia` |
-
-###### Download Option
-Download the .zip and copy `sidonia.vim` to `~/.vim/colors` (on Windows `<your-vim-dir>\vimfiles\colors`). Or for global accessibility, `/usr/share/vim/vimfiles/colors`.
-
-Installation and Setup
+:rocket: Installation and Setup
 ---------------
 #### 24 Bit Color Setup ( Recommended )
 
@@ -41,6 +25,22 @@ If you do not have Vim8 you can still run sidonia in full color. You will need t
 ```VimL
 colorscheme sidonia
 ```
+
+There are a few ways to install sidonia. The first option is by using your favorite vim package manager and the second is by manual download.
+
+:open_file_folder: Package Manager Option
+-----------------------------------------
+
+| Manager          |                 |                                                                            |
+|------------------|-----------------|----------------------------------------------------------------------------|
+| Vundle           | add to .vimrc:  | `Plugin 'alessandroyorba/sidonia'`                                         |
+| NeoBundle        | add to .vimrc:  | `NeoBundle 'alessandroyorba/sidonia'`                                      |
+| VimPlug          | add to .vimrc:  | `Plug 'alessandroyorba/sidonia'`                                           |
+| Pathogen         | from terminal:  | `cd ~/.vim/bundle && \ git clone git://github.com/alessandroyorba/sidonia` |
+
+###### Download Option
+Download the .zip and copy `sidonia.vim` to `~/.vim/colors` (on Windows `<your-vim-dir>\vimfiles\colors`). Or for global accessibility, `/usr/share/vim/vimfiles/colors`.
+
 
 Related
 -------
