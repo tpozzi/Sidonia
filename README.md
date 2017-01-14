@@ -10,7 +10,7 @@ colorscheme sidonia
 
 There are a few ways to install sidonia. The first option is by using your favorite vim package manager and the second is by manual download.
 
-###### Package Manager Option
+:open_file_folder: ###### Package Manager Option
 | Manager          |                 |                                                                            |
 |------------------|-----------------|----------------------------------------------------------------------------|
 | Vundle           | add to .vimrc:  | `Plugin 'alessandroyorba/sidonia'`                                         |
