@@ -34,21 +34,21 @@ Not sure if your terminal supports 24 bit colorschemes? Check out this list: [Tr
 
 ASCII Setup
 --------------------
-If you don't have Vim8 you can still get sidonia to run in full color IF you use the attached sidonia terminal theme. Essentially, if termguicolors are not detected within the .vimrc, vim will target the sidonia xterm color palette instead (colors# 0 - 15 ). One draw back to using the "ASCII" method is that if the sidonia colors are updated, you will need to also make sure to update your terminal with the new colors. 
+If you do not have Vim8 you can still run sidonia in full color. You will need to use sidonia.vim with the sidonia terminal theme found in this repo. Essentially this method works similar to the Base-16 colorschemes in that vim will target the terminal colors ( 0 - 15 ). Please note: One draw back to using this method is that if the sidonia terminal theme colors are ever updated, you will also need to update your terminal theme.
 
 ```VimL
 colorscheme sidonia
 ```
 
-Related 
+Related
 -------
 Feedback, issues or suggestions?. Open an Issue [Sidonia Issues](https://github.com/AlessandroYorba/Sidonia/issues)! Also, if you like Sidonia you might want to check out some of the other Vim themes that I'm working on:
 
-Alduin  
-[![alduinPalette](https://cloud.githubusercontent.com/assets/11221489/21751570/20af614c-d57e-11e6-8813-fb6037702fc2.png)](https://github.com/AlessandroYorba/Alduin) 
+Alduin
+[![alduinPalette](https://cloud.githubusercontent.com/assets/11221489/21751570/20af614c-d57e-11e6-8813-fb6037702fc2.png)](https://github.com/AlessandroYorba/Alduin)
 
-Despacio    
+Despacio
 [![despacioPalette](https://cloud.githubusercontent.com/assets/11221489/21751571/23d80d1a-d57e-11e6-9923-02ba2f2f820d.png)](https://github.com/AlessandroYorba/Despacio)
 
-Sierra  
+Sierra
 [![sierraPalette](https://cloud.githubusercontent.com/assets/11221489/21751572/27670d8c-d57e-11e6-8465-b4f272d3117b.png)](https://github.com/AlessandroYorba/Sierra)
