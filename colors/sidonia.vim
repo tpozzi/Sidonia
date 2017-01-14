@@ -36,7 +36,7 @@ highlight! TabLineSel               guifg=#333942  guibg=#a2afc1  gui=NONE      
 highlight! PmenuSel                 guifg=#a2afc1  guibg=NONE     gui=reverse   ctermfg=4    ctermbg=NONE cterm=reverse
 highlight! StatusLine               guifg=#e4edfa  guibg=#2c3139  gui=NONE      ctermfg=15   ctermbg=6    cterm=NONE
 highlight! CursorLineNr             guifg=#e4edfa  guibg=#2c3139  gui=NONE      ctermfg=15   ctermbg=6   cterm=NONE
-highlight! MatchParen               guifg=#e4edfa  guibg=#CC4339  gui=NONE      ctermfg=15   ctermbg=2    cterm=NONE
+highlight! MatchParen               guifg=#e4edfa  guibg=#CC4339  gui=NONE      ctermfg=15   ctermbg=1    cterm=NONE
 highlight! PmenuSbar                guifg=#2c3139  guibg=#2c3139  gui=NONE      ctermfg=6    ctermbg=6    cterm=NONE
 highlight! String                   guifg=#26A6A6  guibg=NONE     gui=NONE      ctermfg=2    ctermbg=NONE cterm=NONE
 highlight! PreProc                  guifg=#CC4339  guibg=NONE     gui=NONE      ctermfg=1    ctermbg=NONE cterm=NONE
