@@ -2,9 +2,7 @@ Sidonia
 ------
 ###### Sidonia version 1.0.0
 ![Screenshot](https://cloud.githubusercontent.com/assets/11221489/21751568/1c03564e-d57e-11e6-80f7-dff0337bf1ac.png)
-```VimL
-colorscheme sidonia
-```
+
 ![Screenshot](https://cloud.githubusercontent.com/assets/11221489/21748307/92f35fbc-d536-11e6-95a6-7416c31046df.png)
 
 :rocket: Installation and Setup
