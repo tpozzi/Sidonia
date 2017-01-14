@@ -5,7 +5,7 @@ Sidonia
 
 ![Screenshot](https://cloud.githubusercontent.com/assets/11221489/21748307/92f35fbc-d536-11e6-95a6-7416c31046df.png)
 
-:rocket: Installation and Setup
+:rocket: Setup 
 ---------------
 #### 24 Bit Color Setup ( Recommended )
 
@@ -26,10 +26,12 @@ colorscheme sidonia
 
 There are a few ways to install sidonia. The first option is by using your favorite vim package manager and the second is by manual download.
 
-:open_file_folder: Package Manager Option
+:open_file_folder: Installation
 -----------------------------------------
 
-| Manager          |                 |                                                                            |
+###### Package Manager Option
+
+| Manager          | Location        | Setup                                                                      |
 |------------------|-----------------|----------------------------------------------------------------------------|
 | Vundle           | add to .vimrc:  | `Plugin 'alessandroyorba/sidonia'`                                         |
 | NeoBundle        | add to .vimrc:  | `NeoBundle 'alessandroyorba/sidonia'`                                      |
