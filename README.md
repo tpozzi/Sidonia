@@ -5,6 +5,9 @@ Sidonia
 
 ![Screenshot](https://cloud.githubusercontent.com/assets/11221489/21748307/92f35fbc-d536-11e6-95a6-7416c31046df.png)
 
+:bulb: Have you ever been visually assaulted or "triggered" by a colorscheme? :rage1: If so, welcome to your safe space! :godmode: In the spirit of minimalism and other great low color syntax colorschemes, Sidonia attempts to help create a simple yet effective color balance without any visual interference. A single color is used for ALL syntax keywords, making it easier for you to read and scan thru large blocks of code without distraction. Normal text is few shades brighter, making a subtle separation between your keywords with that of syntax. Crimson is used for PreProccesors, and Numbers, allowing you to easily spot function expressions, and numerals nestled in your code. Strings are the opposite color, also making it easy to identify.
+
+
 :rocket: Setup 
 ---------------
 #### 24 Bit Color Setup ( Recommended )
