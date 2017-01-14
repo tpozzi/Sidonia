@@ -8,8 +8,6 @@ colorscheme sidonia
 ![Screenshot](https://cloud.githubusercontent.com/assets/11221489/21748307/92f35fbc-d536-11e6-95a6-7416c31046df.png)
 
 
-Installation
----------------
 There are a few ways to install sidonia. The first option is by using your favorite vim package manager and the second is by manual download.
 
 ###### Package Manager Option
@@ -23,8 +21,10 @@ There are a few ways to install sidonia. The first option is by using your favor
 ###### Download Option
 Download the .zip and copy `sidonia.vim` to `~/.vim/colors` (on Windows `<your-vim-dir>\vimfiles\colors`). Or for global accessibility, `/usr/share/vim/vimfiles/colors`.
 
-24 Bit Color Setup ( Recommended )
----------------------
+Installation and Setup
+---------------
+#### 24 Bit Color Setup ( Recommended )
+
 If you have a GUI Vim or a 24-bit terminal with Vim 8, add this to your vimrc:
 ```VimL
 set termguicolors
@@ -32,8 +32,8 @@ colorscheme sidonia
 ```
 Not sure if your terminal supports 24 bit colorschemes? Check out this list: [Truecolor Supported Terminals ](https://gist.github.com/XVilka/8346728)
 
-ASCII Setup
---------------------
+#### ASCII Setup
+
 If you do not have Vim8 you can still run sidonia in full color. You will need to use sidonia.vim with the sidonia terminal theme found in this repo. Essentially this method works similar to the Base-16 colorschemes in that vim will target the terminal colors ( 0 - 15 ). Please note: One draw back to using this method is that if the sidonia terminal theme colors are ever updated, you will also need to update your terminal theme.
 
 ```VimL
