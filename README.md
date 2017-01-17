@@ -16,16 +16,16 @@ Not sure if your terminal supports 24 bit colorschemes? Check out this list: [Tr
 
 #### ANSI Setup
 
-If you do not have Vim8 you can still run sidonia in full color. You will need to use the sidonia terminal theme in conjunction with the sidonia.vim colorscheme. Essentially this method works similar to the Base-16 colorschemes in that vim will target the terminal colors ( 0 - 15 ). 
+If you do not have Vim8 you can still run sidonia in full color. You will need to use the sidonia terminal theme in conjunction with the sidonia.vim colorscheme. Essentially this method works similar to the Base-16 colorschemes in that vim will target the terminal colors ( 0 - 15 ). Then add this to your vimrc:
 
 ```VimL
 colorscheme sidonia
 ```
 
-There are a few ways to install sidonia. The first option is by using your favorite vim package manager and the second is by manual download.
-
 :open_file_folder: Installation
 -----------------------------------------
+
+There are a few ways to install sidonia. The first option is by using your favorite vim package manager and the second is by manual download.
 
 ###### Package Manager Option
 
