@@ -5,7 +5,7 @@ Sidonia
 
 :rocket: Setup 
 ---------------
-#### 24 Bit Color Setup ( Recommended )
+###### 24 Bit Color Setup ( Recommended )
 
 If you have a GUI Vim or a 24-bit terminal with Vim 8, add this to your vimrc:
 ```VimL
@@ -14,7 +14,7 @@ colorscheme sidonia
 ```
 Not sure if your terminal supports 24 bit colorschemes? Check out this list: [Truecolor Supported Terminals ](https://gist.github.com/XVilka/8346728)
 
-#### ANSI Setup
+###### ANSI Setup
 
 If you do not have Vim8 you can still run sidonia in full color. You will need to use the sidonia terminal theme in conjunction with the sidonia.vim colorscheme. Essentially this method works similar to the Base-16 colorschemes in that vim will target the terminal colors ( 0 - 15 ). Then add this to your vimrc:
 
