@@ -28,8 +28,7 @@
 "     Yellow       #d8fb60      3       |      brYellow     #d8fb60      11      |
 "     Blue         #a2afc1      4       |      brBlue       #a2afc1      12      |
 "     Magenta      #9966b8      5       |      brMagenta    #9966b8      13      |
-"FIXME: fix color #6 
-"     Cyan         #2c3139      6       |      brCyan       #2f343c      14      |
+"     Cyan         #247dae      6       |      brCyan       #2f343c      14      |
 "     White        #e4edfa      7       |      brWhite      #e4edfa      15      |
 "---------------------------------------|-----------------------------------------
 
