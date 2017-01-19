@@ -1,6 +1,6 @@
 Sidonia
 ------
-###### Sidonia version 1.0.0
+###### Sidonia < = >
 ![Screenshot](https://cloud.githubusercontent.com/assets/11221489/22007796/73437008-dc2a-11e6-863f-37753f89f0bd.png)
 
 :rocket: Setup 
